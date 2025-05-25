@@ -1,4 +1,4 @@
-### Hi there, I'm Asma Ul Hosna – aka [webbyhosna] 👋  
+### Hi there, I'm Asma Ul Hosna [webbyhosna] 👋  
 **A passionate Front-End Web Developer from Bangladesh**
 
 ---
