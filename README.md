@@ -1,4 +1,4 @@
-<img src="profile_img.png" alt="My Photo" width="220" height="220"/>
+<img src="myCover-img.png" alt="My Photo" width="500px" height="auto"/>
 
 ## Hi there, I'm Asma Ul Hosna 👋
 ### Frontend Web Developer from Bangladesh
