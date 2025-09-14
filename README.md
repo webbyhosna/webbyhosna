@@ -1,33 +1,33 @@
-### Hi there, I'm Asma Ul Hosna [webbyhosna] 👋  
-**A passionate Front-End Web Developer from Bangladesh**
+# Hi there, I'm Asma Ul Hosna 👋
+### Frontend Web Developer from Bangladesh
 
+## 👩 About Me:
+I'm Asma Ul Hosna, a skilled Front-end Web Developer.
+I have 3+ years of Experience in this Sector. I'm pro at HTML, CSS, JavaScript and Bootstrap v4/5. As a Front-end web Developer, I can Design any website Mockup or User Interface look at very Unique ,RESPONSIVE and very attractive. Such as Landing page, Portfolio, Restaurant, Business or Shopping site etc.
+<br>
 ---
-
-### 💻 What I Do:
-- Build responsive websites using **HTML, CSS, JavaScript, Bootstrap**
-- Create dynamic and interactive front-end interfaces
-- Work with **Git** and GitHub for version control
-- Use **WordPress** for modern, user-friendly websites
-- Basic understanding of SEO and UI/UX best practices
-
----
-
-### 🔧 Skills:
-- HTML5 / CSS3 / JavaScript
-- Bootstrap 5 / Tailwind CSS
-- Git & GitHub
-- WordPress Website Customization
-- Responsive Web Design
-- Basic SEO Optimization
+## 🚀 My Skills
+- HTML/HTML5, CSS/CSS3, Bootstrap  
+- JavaScript (ES6+), jQuery  
+- React  
+- Git & GitHub  
+- Responsive Design
+- SEO Optimization
 - Canva for Simple Graphics
+<br>
+## 💻 Projects
+Here are some of my highlighted projects:
 
+- [Responsive Portfolio Website](https://github.com/webbyhosna/alisha-zohal-portfolio)  
+- [To-Do List App](https://github.com/webbyhosna/organic_veg)  
+- [Weather App using API](https://github.com/webbyhosna/chips-website)  
+
+👉 You can find more in my [repositories](https://github.com/webbyhosna?tab=repositories).
 ---
 
-### 📫 Contact Me:
-- Email: **webbyhosna@gmail.com**
-- LinkedIn: [linkedin.com/in/webbyhosna](https://www.linkedin.com/in/webbyhosna)
-- GitHub: [github.com/webbyhosna](https://github.com/webbyhosna)
+## 📫 Connect with me
+- Email: webbyhosna@gmail.com  
+- LinkedIn: [linkedin.com/in/webbyhosna](https://www.linkedin.com/in/asma-ul-hosna-4a6193367/)
+- Portfolio: -  
 
----
-
-> “Learning and growing every day — one line of code at a time.”
+### > “Learning and growing every day — one line of code at a time.”
